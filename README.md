@@ -1,4 +1,6 @@
 # Retail-Sales-MIS-Dashboard
+![Dashboard Preview](Retail_Sales_MIS_Dashboard_Overview.PNG)
+
  Project Overview
 
 This project is an Excel-based Retail Sales MIS Dashboard created to analyze high-volume retail transaction data and generate actionable business insights. The dashboard focuses on sales performance, customer behavior, and category-wise trends.
